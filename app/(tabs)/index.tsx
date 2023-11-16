@@ -28,8 +28,8 @@ export default function TabOneScreen() {
       loop={false}
       autoPlay
       style={{
-        width: 80,
-        height: 80,
+        width: 180,
+        height: 180,
       }}
       />
     </ScrollView>
