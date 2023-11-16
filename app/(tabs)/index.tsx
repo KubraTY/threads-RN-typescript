@@ -28,7 +28,7 @@ export default function TabOneScreen() {
       loop={false}
       autoPlay
       style={{
-        width: 190,
+        width: 90,
         height: 90,
       }}
       />
